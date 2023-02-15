@@ -5,7 +5,7 @@
 
 ## [두 번째 프로젝트]: 고객 이해를 바탕으로 한 프로모션 참여 예측 
 - 작성: 2022년 9월 30일   
-- 코드 파일: [ai_15_공주_s2_code.ipynb](https://github.com/kongju7/my_project1_2/blob/main/ai_15_%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%AE_s2_code.ipynb)
+- 코드 파일: [ai_15_공주_s2_code.ipynb](https://github.com/kongju7/my_project1_2/blob/main/ai_15_%EA%B3%B5%EC%A3%BC_s2_code.ipynb)
 
 
 ### 개요
