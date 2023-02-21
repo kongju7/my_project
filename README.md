@@ -23,10 +23,14 @@
 2. 고객 이해
     - 평균적인 고객 특성: 40대, 대졸, 3인 가구 
     - (RFM 기반) '중요 고객' 정의: '중위값' 이상,  K-Means Clustering
+    
+    <img src = "https://raw.githubusercontent.com/kongju7/my_project1_2/main/img/s2_clustering.png" width="50%" height="50%">   
+    
     - '중요 고객' 특성: 일반 고객과 평균 비교 
       - 인구학적 특성: 소득 수준은 40% 높고, 자녀 수는 30% 적음
       - 구매 특성: 전 품목 구매량, '카탈로그' 구매, 기존 프로모션 참여 횟수 2배 이상 많음 → 구매 여력이 있는 적극적인 구매층 
-  
+    <img src = "https://raw.githubusercontent.com/kongju7/my_project1_2/main/img/s2_comparison.png" width="60%" height="60%">
+
 3. 프로모션 참여 여부 예측 
     - 분류 예측 모델링: 트리 기반 부스팅 모델 + 베이지안 기반 하이퍼파라미터 튜닝 
     - 모델 일반화 검증 및 해석: PDP 활용
@@ -64,12 +68,16 @@
     - 명불허전 'Action'
     - 일본의 독특한 선호도
 
+<img src = "https://raw.githubusercontent.com/kongju7/my_project1_2/main/img/s1_share.png" width="50%" height="50%">
+
 4. 출고량 높은 비디오 게임 분석
     - 상위 1% 비디오 게임
     - 역대 최고 출고량 게임: Wii SPORTS
 
 5. 비디오 게임 군집화: 지역별 출고량 분석
     - K-Means Clustering
+
+<img src = "https://raw.githubusercontent.com/kongju7/my_project1_2/main/img/s1_scatter.png" width="50%" height="50%">
 
 6. 분석결과 요약 및 제언: 단기 및 중장기 전략
     - 다음 분기 비디오 게임 출시 전략 제언:
